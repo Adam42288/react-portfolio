@@ -12,7 +12,7 @@ This project React app creation to create a responsive portfolio.
 
 ### Installation:
 This project uses the following dependencies:
-```1. Clone the repo, 2. run npm run build, 3. run npm start
+1. Clone the repo, 2. run npm run build, 3. run npm start
 ### Usage:
 N/A
 ### License:
