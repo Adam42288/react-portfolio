@@ -11,3 +11,4 @@ node_modules/
 jspm_packages/
 logs
 *.log
+package-lock.json
