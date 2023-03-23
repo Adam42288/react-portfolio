@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.nav-active {
+    background-color: #f1f1f1;
+    color: black;
+    text-decoration: underline;
+}
+
+.nav-inactive {
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+}
