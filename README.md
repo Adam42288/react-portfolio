@@ -1,7 +1,7 @@
 # React Portfolio 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=plastic)
 ## Description
-This project React app creation to create a responsive portfolio.
+This project React app creation to create a responsive portfolio. I deployed the React website to github pages and updated it using npm deploy.
 ## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,7 +11,6 @@ This project React app creation to create a responsive portfolio.
 * [Questions](#questions)
 
 ### Installation:
-This project uses the following dependencies:
 1. Clone the repo, 2. run npm run build, 3. run npm start
 ### Usage:
 N/A
